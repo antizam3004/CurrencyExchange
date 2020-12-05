@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<GridPane alignment="center" hgap="10" prefHeight="454.0" prefWidth="507.0" vgap="10" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bonusZadatak.FrontController">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane prefHeight="456.0" prefWidth="507.0">
+         <children>
+            <VBox alignment="TOP_CENTER" layoutX="2.0" layoutY="1.0" prefHeight="447.0" prefWidth="499.0">
+               <children>
+                  <Label text="Currency converter">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font>
+                  </Label>
+                  <Separator prefWidth="200.0" />
+                  <HBox alignment="CENTER" prefHeight="122.0" prefWidth="499.0" spacing="10.0">
+                     <children>
+                        <Label text="From: ">
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </Label>
+                        <ComboBox fx:id="currency1ComboBox" prefHeight="25.0" prefWidth="100.0" />
+                        <Label text="To:">
+                           <HBox.margin>
+                              <Insets left="40.0" />
+                           </HBox.margin>
+                        </Label>
+                        <ComboBox fx:id="currency2ComboBox" prefHeight="25.0" prefWidth="100.0" />
+                     </children>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </HBox>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <TextField fx:id="fromCurencyTextField" prefHeight="25.0" prefWidth="130.0" />
+                        <Button fx:id="convertBtn" mnemonicParsing="false" onAction="#convert" text="Convert">
+                           <HBox.margin>
+                              <Insets left="40.0" />
+                           </HBox.margin>
+                        </Button>
+                        <TextField fx:id="toCurrencyTextField" prefHeight="25.0" prefWidth="130.0">
+                           <HBox.margin>
+                              <Insets left="40.0" />
+                           </HBox.margin>
+                        </TextField>
+                     </children>
+                  </HBox>
+                  <Separator prefWidth="200.0" />
+                  <TextArea fx:id="textArea" prefHeight="289.0" prefWidth="459.0">
+                     <VBox.margin>
+                        <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
+                     </VBox.margin>
+                  </TextArea>
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+   </children>
+</GridPane>

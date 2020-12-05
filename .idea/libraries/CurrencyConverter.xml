@@ -1,0 +1,64 @@
+<component name="libraryTable">
+  <library name="CurrencyConverter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.persistence-api-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/verdana.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/joda-time-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.json.bind-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/dnsns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/hk2-utils-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jfxrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/validation-api-2.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jasperreports-6.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/localedata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/hk2-locator-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/nashorn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-media-sse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/sunec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/access-bridge-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/commons-beanutils-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jedis-3.1.0-m1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jasperreports-functions-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.json-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.json-api-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/javassist-3.22.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jasperreports-fonts-6.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/zipfs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/hk2-api-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.servlet-api-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.ws.rs-api-2.1.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/aopalliance-repackaged-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/itext-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.annotation-api-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/cldrdata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.inject-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/amqp-client-5.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-media-jaxb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/sunmscapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/yasson-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/CurrencyConverter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-container-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/org.osgi.core-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jakarta.ws.rs-api-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-media-json-binding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/commons-digester-1.8_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/mysql-connector-java-5.1.45-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/sunjce_provider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/sunpkcs11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jersey-hk2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CurrencyConverter/jaccess.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
