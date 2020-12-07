@@ -13,7 +13,7 @@ Liste sadrže tečajeve dolara i eura u 30-ak valuta. U programu imamo dva padaj
 Repozitorij sadrži fajlove i foldere iz projekta rađenom u IntelliJ IDEA.
 Otvoriti u istom programu i pokrenuti kao java desktop aplikaciju.
 
-Ako se otvara sa drugim programom moguće razlike u encodingu i prikazu slova.
+Ukoliko se otvara sa drugim programom moguće razlike u encodingu i prikazu slova.
 
 Ante Sušac
 ante.susac@gmail.com
