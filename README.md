@@ -1,5 +1,3 @@
-# NsoftBonusZadatak
-Bonus zadatak
 
 Program vuče tečajne liste za dolar i euro Europske centralne banke sa dva linka:
 
